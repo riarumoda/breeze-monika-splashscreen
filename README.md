@@ -9,3 +9,6 @@ Original Wallpaper : https://wall.alphacoders.com/big.php?i=912554, Wallpaper is
 
 # Installation
 Ez, just git clone this thing and move/copy "org.kde.monika.splash" folder to ~/.local/share/plasma/look-and-feel
+
+# Why this thing does not appear on KDE Store?
+I don't know how to submit thing to there. :/
