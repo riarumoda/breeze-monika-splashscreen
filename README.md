@@ -1,4 +1,4 @@
-# breeze-monika-splashscreen
+# DDLC : Monika Splash Screen
 This is just a modded version of stock Breeze splash with monika inside it.
 
 # Disclaimer
