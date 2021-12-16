@@ -10,7 +10,7 @@
         "Description": "Breeze but with monika inside it",
         "Id": "org.kde.breeze.monika.splash",
         "License": "GPLv2+",
-        "Name": "DDLC_Monika",
+        "Name": "DDLCMonika",
         "ServiceTypes": [
             "Plasma/LookAndFeel"
         ],
