@@ -1,11 +1,11 @@
 [Desktop Entry]
-Comment=DDLC : Monika
+Comment=DDLC_Monika
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
-Name=DDLC : Monika
+Name=DDLC_Monika
 Type=Service
 X-KDE-ServiceTypes=Plasma/LookAndFeel
-X-KDE-PluginInfo-Name=DDLC : Monika
+X-KDE-PluginInfo-Name=DDLC_Monika
 X-KDE-PluginInfo-Author=therealmodder
 X-KDE-PluginInfo-Email=trrrepository@gmail.com
 X-KDE-PluginInfo-License=GPLv2+
